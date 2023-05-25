@@ -1,0 +1,48 @@
+[
+    {
+        "name": "iphone1",
+        "price": 154,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone2",
+        "price": 877,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone3",
+        "price": 433,
+        "company": "apple"
+    },
+    {
+        "name": "iphone4",
+        "price": 234,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone5",
+        "price": 65,
+        "company": "apple"
+    },
+    {
+        "name": "iphone6",
+        "price": 55,
+        "company": "apple"
+    },
+    {
+        "name": "iphone7",
+        "price": 44,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone8",
+        "price": 121,
+        "company": "apple"
+    }
+]
+    
+    
